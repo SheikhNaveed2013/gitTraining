@@ -8,3 +8,6 @@ New Training
 Another update
 
 Dont you see updates
+
+
+Please write a review for this course.
